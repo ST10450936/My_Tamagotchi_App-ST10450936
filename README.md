@@ -18,4 +18,5 @@ In the main page youll see 3 buttons with the words which says EAT, PLAY and WAS
 ![image](https://github.com/ST10450936/My_Tamagotchi_App-ST10450936/assets/164515015/ab81d733-0ef3-4d35-b713-6a89dafd15bb)
 After clicking one of the buttions youll notice that the bars at the bottom increments by 10 showing that the level point increases after the dog does a specific action.
 
-A YouTube video is given below to provide a tutorial on how to use the doggy app.
+A YouTube video is given below to provide a tutorial on how to use the doggy app:
+https://youtu.be/sRgbvku-3-A
