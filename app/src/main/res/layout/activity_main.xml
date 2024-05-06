@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="@drawable/img_1"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_gravity="center_vertical"
+        android:fontFamily="@font/coiny"
+        android:text="WELCOME TO DOGGY WRLD"
+        android:textColor="#1BABF8"
+        android:textSize="27sp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="136dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="402dp"
+        app:srcCompat="@drawable/image__1_" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btnPlay"
+        android:layout_width="360dp"
+        android:layout_height="74dp"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:fontFamily="@font/fredoka_one"
+        android:text="PLAY!"
+        android:textSize="29sp" />
+
+</LinearLayout>
